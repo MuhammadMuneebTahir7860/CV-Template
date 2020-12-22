@@ -1,0 +1,180 @@
+* {
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  body {
+    background: #585c68;
+  }
+.main{
+    display: inline-flex;
+    margin: 30px 240px;
+    
+}
+.left{
+    width: 280px;
+    height: 1250px;
+    background-color: #0bb5f4;
+    color: white;
+}
+.profile{
+    width: 100%;
+    height: 280px;
+}
+.profile img{
+    width: 100%;
+  height: 100%;
+}
+#name{
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-indent: 20px;
+    line-height: 10px;
+    padding-top: 5px;
+}
+#category{
+    text-indent: 20px;
+    color: #b1eaff;
+    line-height: 0px;
+}
+.icons{
+    text-indent: 20px;
+    margin-top: 35px;
+}
+.icons>img{
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  vertical-align: middle;
+}
+.data{
+    color: #b1eaff;
+    font-size: 14px;
+}
+#hori-line{
+    width: 85%;
+}
+
+/* progress line Start */
+
+.skills-main{
+    display: inline-flex;
+    text-indent: 15px;
+}
+.html{
+     background-color: #585c68;
+     height: 7px;
+     width: 130px;
+     margin-left: 10px;
+     border-radius: 10px;
+     margin-top: 5px;
+}
+#html{
+    width: 80%;
+    height: 7px;
+    background-color:white;
+    border-radius: 10px;
+}
+.css{
+    background-color: #585c68;
+    height: 7px;
+    width: 130px;
+    margin-left: 22px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#css{
+    width: 70%;
+    height: 7px;
+    background-color:white;
+    border-radius: 10px;
+}
+.sass{
+    background-color: #585c68;
+    height: 7px;
+    width: 130px;
+    margin-left: 13px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#sass{
+    width: 90%;
+    height: 7px;
+    background-color:white;
+    border-radius: 10px;
+}
+.js{
+    background-color: #585c68;
+    height: 7px;
+    width: 130px;
+    margin-left: 33px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#js{
+    width: 60%;
+    height: 7px;
+    background-color:white;
+    border-radius: 10px;
+}
+.jquery{
+    background-color: #585c68;
+    height: 7px;
+    width: 130px;
+    margin-left: 11px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#jquery{
+    width: 88%;
+    height: 7px;
+    background-color:white;
+    border-radius: 10px;
+}
+/* progress Lines End */
+/* Right side start */
+.right{
+    width: 520px;
+    height: auto;
+    padding: 25px;
+    background-color: white;
+}
+#about{
+    color: #0bb5f4;
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#text{
+    color: gray;
+    font-size: 13px;
+}
+#right-hori-line{
+    width: 100%;
+}
+div ul{
+    list-style: none;
+}
+.Projects{
+    display: inline-flex;
+}
+.Projects li{
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 30px;
+    background-color: #0bb5f4;
+    width: 70px;
+    height: 50px;
+    border-radius: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+
